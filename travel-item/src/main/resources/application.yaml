@@ -1,0 +1,14 @@
+server:
+  port: 10010
+spring:
+  application:
+    name: item-service
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/travel?useSSL=false&characterEncoding=utf8&serverTimezone=UTC
+    username: root
+    password: zjl792644
+  redis:
+    host: 192.168.85.10
+mybatis:
+  type-aliases-package: com.travel.item.pojo
