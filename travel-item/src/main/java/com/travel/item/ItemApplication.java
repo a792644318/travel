@@ -10,5 +10,6 @@ public class ItemApplication {
     public static void main(String[] args) {
         SpringApplication.run(ItemApplication.class);
         System.out.println("haha");
+        int b = 2;
     }
 }
