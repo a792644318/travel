@@ -9,5 +9,6 @@ import tk.mybatis.spring.annotation.MapperScan;
 public class ItemApplication {
     public static void main(String[] args) {
         SpringApplication.run(ItemApplication.class);
+        System.out.println("haha");
     }
 }
