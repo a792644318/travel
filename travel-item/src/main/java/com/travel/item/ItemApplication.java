@@ -12,5 +12,6 @@ public class ItemApplication {
         System.out.println("haha");
         int b = 2;
         int a = 1;
+        System.out.println(a);
     }
 }
