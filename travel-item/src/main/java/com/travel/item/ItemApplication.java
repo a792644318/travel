@@ -10,6 +10,6 @@ public class ItemApplication {
     public static void main(String[] args) {
         SpringApplication.run(ItemApplication.class);
         System.out.println("hello world");
-
+        System.out.println("是啊");
     }
 }
