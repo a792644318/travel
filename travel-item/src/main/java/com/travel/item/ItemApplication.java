@@ -14,5 +14,6 @@ public class ItemApplication {
         int a = 2;
         int b = 3;
         System.out.println("he");
+        System.out.println(new Long(2L));
     }
 }
