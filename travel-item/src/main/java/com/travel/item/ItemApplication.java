@@ -11,5 +11,7 @@ public class ItemApplication {
         SpringApplication.run(ItemApplication.class);
         System.out.println("hello world");
         System.out.println("是啊");
+        int a = 2;
+        int b = 3;
     }
 }
