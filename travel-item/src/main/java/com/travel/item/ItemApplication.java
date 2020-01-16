@@ -15,6 +15,6 @@ public class ItemApplication {
         int b = 3;
         System.out.println("he");
         System.out.println(new Long(2L));
-        System.out.println("zjl");
+        Integer i = 3;
     }
 }
